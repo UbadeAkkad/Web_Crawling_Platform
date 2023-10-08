@@ -1,0 +1,7 @@
+/virtual_env
+/mongodb_data
+*.pyc
+*.sqlite3
+*.rdb
+Dockerfile
+notes.txt
